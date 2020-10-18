@@ -1,2 +1,4 @@
-# matplotlib-challenge
-Matplotlib Homework - The Power of Plots
+#matplotlib-challenge
+##Matplotlib Homework - The Power of Plots
+
+

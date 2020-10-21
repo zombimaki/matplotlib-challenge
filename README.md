@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-Matplotlib Homework - The Power of Plots
+Matplotlib Homework - The Power of Plots 
 
 The Pymaceuticals jupyter notebook uses Matplotlib,Pandas,Numpy, and Scipy performs the following to make observations and insights on the tumor treatment of mice:
 
